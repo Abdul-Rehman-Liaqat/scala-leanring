@@ -30,10 +30,10 @@ object week {
 
 
   def squareList(xs: List[Int]): List[Int] = xs match {
-    case Nil =>
-    case y :: ys => (x : Int) => x*x :: squareList(ys)
+    case Nil => Nil
+    case y :: ys => y*y :: squareList(ys)
   }
 
   def squareListwithMap(xs: List[Int]): List[Int] =
-    xs map (x : Int) => x*x
+    xs map (x => x*x)
 }
