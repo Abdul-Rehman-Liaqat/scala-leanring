@@ -2,55 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24117f70-8274-49f0-860c-9bf4b5a5956b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../gettingStarted/playWithScala/src/main/scala/findingFixedPoint.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gettingStarted/playWithScala/src/main/scala/product.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gettingStarted/playWithScala/src/main/scala/rationals.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-objsets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/modules/progfun1-funsets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/modules/root-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3/.idea/modules/week3-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3/src/main/scala/List.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week3/src/main/scala/classesLearning.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4/.idea/modules/week4-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4/src/main/scala/Nat.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gettingStarted/playWithScala/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gettingStarted/playWithScala/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gettingStarted/playWithScala/src/main/scala/currying.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../gettingStarted/playWithScala/src/main/scala/currying.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gettingStarted/playWithScala/target/streams/compile/console/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../gettingStarted/playWithScala/target/streams/compile/console/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4/project/target/config-classes/$d4ef9576348cfbf4e321$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4/project/target/config-classes/$d4ef9576348cfbf4e321.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4/project/target/config-classes/$d4ef9576348cfbf4e321.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../week4/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../week4/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../week4/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4/src/main/scala/Nat.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../week4/src/main/scala/Nat.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../week4/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -70,7 +31,7 @@
     <session id="1504131062">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
