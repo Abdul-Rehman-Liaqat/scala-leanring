@@ -21,3 +21,8 @@ object Zero extends Nat {
 }
 
 
+def removeAt[T](xs: List[T], n: Int) = List[T] {
+  if(xs.isEmpty) xs
+  else()
+}
+
